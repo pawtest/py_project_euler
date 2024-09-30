@@ -1,10 +1,3 @@
-#   3            3
-#  7 4        10   7
-# 2 4 6     12  14  13
-#8 5 9 3  20  17  23  16
-
-a = [[3],[7,4],[2,4,6],[8,5,9,3]]
-
 triangle = []
 # problem 18 and 67 are essentially the same problem
 # with open("18_input.txt", "r") as input:
