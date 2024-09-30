@@ -6,7 +6,8 @@
 a = [[3],[7,4],[2,4,6],[8,5,9,3]]
 
 triangle = []
-#with open("18_input.txt", "r") as input:
+# problem 18 and 67 are essentially the same problem
+# with open("18_input.txt", "r") as input:
 with open("67_input.txt", "r") as input:
     for line in input:
         triangle.append([int(x) for x in line.split()])
